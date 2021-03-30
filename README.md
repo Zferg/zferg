@@ -1,3 +1,5 @@
+<img src="https://github.com/Zferg/zferg/blob/main/Github_Banner.png">
+
 ### Hello, 👋
 I hope you are having a great day, and welcome to my github. Please feel free to explore around and ask any questions that you might have!
 
