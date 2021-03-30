@@ -1,5 +1,5 @@
-### Hi there 👋 
-It seems that you have landed on my github, please explore around and ask any questions that you might have
+### Hello, 👋
+I hope you are having a great day, and welcome to my github. Please feel free to explore around and ask any questions that you might have!
 
 - 🔭 I’m currently working on creating a vulnerability lab
 - 📓 I'm currently reading about vagrant boxes and the power that they hold
