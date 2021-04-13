@@ -5,7 +5,7 @@ I hope you are having a great day, and welcome to my github. Please feel free to
 
 ### About me
 
-- 🔭 I’m currently working on creating a personalized security sandbox
+- 🔭 I’m currently working on creating a personalized linux workstation
 - 📓 I'm currently reading about [terraform](https://www.terraform.io/)
 - 🌱 I’m currently having fun studying more penetration testing
 - 👯 I’m looking to collaborate on anything really, I'm not shy about learning anything I can 😅
