@@ -5,9 +5,9 @@ I hope you are having a great day, and welcome to my github. Please feel free to
 
 ### About me
 
-- 🔭 I’m currently working on creating a personalized linux workstation
+- 🔭 I’m currently working on creating a "How to start learning about security" linux workstation
 - 📓 I'm currently reading about [terraform](https://www.terraform.io/)
-- 🌱 I’m currently having fun studying more penetration testing
+- 🌱 I’m currently having fun studying penetration testing
 - 👯 I’m looking to collaborate on anything really, I'm not shy about learning anything I can 😅
 - 💬 Ask me about [Warhammer AoS](https://www.games-workshop.com/en-US/Warhammer-Age-of-Sigmar) and anything else even remotely considered nerdy
 - 😄 Pronouns: [he/him](https://pronoun.is/he)
